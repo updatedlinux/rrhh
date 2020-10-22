@@ -46,7 +46,7 @@
     <!-- lockscreen credentials (contains the form) -->
     <form  action="" class="lockscreen-credentials" name="formulario" id="formulario" method="POST">
       <div class="input-group">
-        <input type="password" class="form-control" name="codigo_persona" id="codigo_persona" placeholder="ID de asistencia">
+        <input type="password" class="form-control" name="codigo_persona" id="codigo_persona" placeholder="Escribe aqui tu ID de asistencia">
 
         <div class="input-group-btn">
           <button type="submit" class="btn btn-primary"><i class="fa fa-arrow-right text-muted"></i></button>
