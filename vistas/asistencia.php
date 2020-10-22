@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CC | Admin</title>
+    <title>Asistencias</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -30,7 +30,7 @@
 
 
   <div class="lockscreen-logo">
-    <a href="#"><b>CC</b> ASISTENCIA</a>
+    <a href="#"><b>MOVAO GROUP</b> ASISTENCIA | RRHH</a>
   </div>
   <!-- User name -->
   <div class="lockscreen-name">ASISTENCIA</div>
@@ -39,7 +39,7 @@
   <div class="lockscreen-item">
     <!-- lockscreen image -->
     <div class="lockscreen-image">
-      <img src="../admin/files/negocio/default.jpg" alt="User Image">
+      <img src="../admin/files/negocio/movao.jpg" alt="User Image">
     </div>
     <!-- /.lockscreen-image -->
 
@@ -58,13 +58,13 @@
   </div>
   <!-- /.lockscreen-item -->
   <div class="help-block text-center">
-    Ingresa tu ID de asistencia
+    Ingresa tu ID de asistencia para registrar Entrada o Salida
   </div>
   <div class="text-center">
 
   </div>
   <div class="lockscreen-footer text-center">
-    <a href="../admin/">Iniciar Sesión</a>
+    <a href="../admin/">Ingresa Aqui al Modulo Administrativo</a>
   </div>
 </div>
 <!-- /.center -->

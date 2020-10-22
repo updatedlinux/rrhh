@@ -7,7 +7,7 @@ if (strlen(session_id())<1)
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <title>CC | Admin</title>
+   <title>Administrador de Asistencia</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3 -->
@@ -75,7 +75,7 @@ if (strlen(session_id())<1)
 
                 <p>
                   <?php echo $_SESSION['nombre'].' '.$_SESSION['departamento']; ?>
-                  <small>Desarrollo de sistemas informáticos</small>
+                  <small>Movao Group</small>
                 </p>
               </li>
               <!-- Menu Footer-->
@@ -190,7 +190,7 @@ if (strlen(session_id())<1)
 <?php } ?>
   
       <li><a href="#"><i class="fa fa-question-circle"></i> <span>Ayuda</span><small class="label pull-right bg-yellow">PDF</small></a></li>
-      <li><a href="https://www.compartiendocodigos.net/"><i class="fa  fa-exclamation-circle"></i> <span>Acerca de</span><small class="label pull-right bg-yellow">ComCod</small></a></li>   
+      <li><a href="https://www.movaogroup.net/"><i class="fa  fa-exclamation-circle"></i> <span>Acerca de</span><small class="label pull-right bg-yellow">Movao Tech</small></a></li>   
         
       </ul>
     </section>
